@@ -9,7 +9,7 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 100,
+          "alterId": 10,
           "security": "chacha20-poly1305",
           "level": 1
         }
